@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&display=swap');
+
+body{
+  animation: changeBg 15s linear infinite;
+  display: grid;
+  place-items: center;
+}
+
+@keyframes changeBg {
+  0% {
+      background-color: #93dfe9;
+  }
+  25% {
+      background-color: #9DF9EF
+  }
+  50% {
+      background-color: #b9bc93;
+  }
+  75% {
+      background-color: #ecbbc3;
+  }
+  100% {
+      background-color: #a28089;
+  }
+  100% {
+      background-color: rgb(161, 150, 206);
+  }
+}
+
+.head {
+  float: left;
+  margin-top: 11.3px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  Color=#112D4E;
+}
+
+.txt {
+  
+  text-align: center;
+  font-family:Georgia, serif;
+}
+.txt1 {
+  margin-top: 5rem;
+  text-align: center;
+  font-family:Georgia, serif;
+}
+.input {
+  margin-bottom: 10px;
+  text-align: right;
+}
+.male {
+  margin-left: 10px;
+}
+
+.lab {
+  margin-right: 40px;
+  display: inline-block;
+}
+
+.lab31 {
+  margin-right: 0px;
+}
+
+
+
+.logo {
+  border-radius: 100%;
+  box-shadow: 1px 1px 10px 1px rgb(208, 143, 143);
+  margin-top: 1px;
+}
+
+.centre {
+  text-align: right;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.code {
+  text-align: right;
+  font-family: 'Cinzel', serif;
+}
+
+.btn {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.details {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+
+}
+
+.details2 {
+  margin-top: 150px;
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 3rem;
+
+}
+
+.details1 {
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: #112D4E;
+  border: 1px solid;
+  border-radius: 5px;
+  color: white;
+}
+
+.bird {
+  text-align: center;
+  margin-bottom: -90px;
+}
+
+
+.button {
+  text-align: center;
+  background-color: #35404b;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 1.2rem;
+  padding: 8px 19px;
+  display: inline-block;
+  border-radius: 25px;
+  border: 5px solid;
+  color: rgb(74, 5, 5);
+}
+
+.botton {
+  font-family: 'Cinzel Decorative', cursive;
+
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #112D4E;
+  padding: 6px 19px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid;
+  color: white;
+
+}
+
+.para {
+  margin-top: 10rem;
+  text-align: center;
+  background-color: #35404b;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 1rem;
+  padding: 1px 25px;
+  border-radius: 15px;
+  border:1px solid;
+  color: white
+}
+.b{
+  border-style: solid;
+  padding: 16px 20px;  
+  margin:10px 0; 
+  
+}
+#c{
+ text-align: center;
+ margin-left: 130px;
+}

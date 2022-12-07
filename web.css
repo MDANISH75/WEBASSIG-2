@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Cinzel+Decorative&display=swap');
+
+.head {
+  font-size: 1.4rem;
+  float: left;
+  margin-top: 11.3px;
+  font-family: 'Cinzel', serif;
+  color: #112D4E;
+}
+
+.select {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  margin-bottom: 20px;
+}
+
+.para {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+    margin-bottom: -20px;
+}
+
+.logo {
+  border-radius: 50%;
+  box-shadow: 1px 1px 10px 1px grey;
+  margin-top: 5px;
+}
+
+.code {
+  text-align: right;
+  font-family: 'Cinzel', serif;
+}
+
+.centre {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.obi {
+  font-weight: bold;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+}
+
+.wan {
+  
+  font-size: 20px;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 4 60px;
+  background-color:#baa788;
+}
+
+.anakin {
+  font-style: italic;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+}
+
+.skywalker {
+  font-style: italic;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+  background-color: #DBE2EF;
+}
+
+.luke {
+  text-decoration: underline;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+}
+
+.yoda {
+  text-decoration: underline;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin: 0 60px;
+  background-color: #9DF3C4;
+}
+
+.button {
+  text-align: center;
+  background-color: #76808b;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 1.2rem;
+  padding: 6px 19px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 1px solid;
+  color: white;
+}
+
+.botton {
+  font-family: 'Cinzel Decorative', cursive;
+
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: #2c496b;
+  padding: 6px 19px;
+  display: inline-block;
+  border-radius: 5px;
+  border: 3px solid;
+  border-color: #8e5669;
+  color: white;
+
+}
+
+.btn {
+
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.a {
+  color:antiquewhite;
+}
+
+.b {
+  color:darkcyan;
+}
