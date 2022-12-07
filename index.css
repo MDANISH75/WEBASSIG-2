@@ -123,7 +123,7 @@ a {
 .button {
   text-align: center;
   background-color: #35404b;
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: Lucida Sans Unicode;
   font-size: 1.2rem;
   padding: 8px 19px;
   display: inline-block;
@@ -133,7 +133,7 @@ a {
 }
 
 .botton {
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: Lucida Sans Unicode;
 
   font-size: 1.2rem;
   text-align: center;
